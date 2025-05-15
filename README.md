@@ -1,4 +1,3 @@
-# Script-Dandy-s-world
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
  
 local Window = Rayfield:CreateWindow({
